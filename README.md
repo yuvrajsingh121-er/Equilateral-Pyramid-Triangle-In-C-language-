@@ -1,1 +1,7 @@
 # Equilateral-Pyramid-Triangle-In-C-language-
+
+    *
+   ***
+  *****
+ *******
+*********
